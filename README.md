@@ -1,6 +1,7 @@
 # MagnePlane (Hyperloop_v2)
 
 ## Docs
+[Final Paper: https://arc.aiaa.org/doi/pdf/10.2514/6.2017-0221](https://arc.aiaa.org/doi/pdf/10.2514/6.2017-0221)
 
 [http://magneplane.readthedocs.io/en/latest/](http://magneplane.readthedocs.io/en/latest/)
 
